@@ -1,1 +1,1 @@
-# leatmc.github.com
+# leatmc.github.io
